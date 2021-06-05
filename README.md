@@ -14,7 +14,7 @@ Labs
   Lab 9
  
 Projects
-  Project 1
+[Project 1] (https://github.com/vrobles18/cit281-p1.git) 
   Project 2
   Project 3
   Project 4
