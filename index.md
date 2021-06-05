@@ -2,7 +2,7 @@
 <p> The purpose of this page is to create a portfolio which includes a repository of projects and labs for the CIT Minor, as well as a description of how they function and what their purpose is. </p>
 
 <h2>Projects</h2>
-<h3>Project 1[https://github.com/vrobles18/cit281-p1.git]</h3>
+<h3>[Project 1] (https://github.com/vrobles18/cit281-p1.git)</h3>
 <h3>Project 2</h3>
 <h3>Project 3</h3>
 <h3>Project 4</h3>
@@ -21,3 +21,5 @@
 <h3>Lab 7</h3>
 <h3>Lab 8</h3>
 <h3>Lab 9</h3>
+
+
