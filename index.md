@@ -1,5 +1,5 @@
-CIT 281 Project Repository
-  add description
+The purpose of this page is to create a CIT Minor Portfolio which includes a repository of porjects and labs, as well as a description of how they function and what their purpose is. 
 
-CIT 281 Lab Repository
-  add description
+Projects
+
+Labs
